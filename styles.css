@@ -1,0 +1,58 @@
+.azul{
+    position: absolute;
+    width: 100%;
+    right: 0%;
+    top: 0%;
+    height: 150px;
+    background: #93B5C9;
+    }
+.rojo1{
+    position:absolute;
+    width: 100%;
+    top: 149px;
+    right: 0.5px;
+    height: 350px;
+    background:#AB2849 ; 
+
+}    
+.rojo2{
+    position: absolute;
+    top: 520px;
+    left:50% ;
+    width: 50%;
+    height: 100px;
+    background: #AB2849;
+}
+.rojo3{
+    position: absolute;
+    top: 640px;
+    left: 50%;
+    width: 50%;
+    height: 100px;
+    background: #AB2849;
+}
+.rojo4{
+    position: absolute;
+    top: 760px;
+    left: 50%;
+    width: 50%;
+    height: 100px;
+    background: #AB2849;
+
+}
+.rojo5{
+    position: absolute;
+    top: 880px;
+    left: 50%;
+    width: 50%;
+    height: 100px;
+    background: #AB2849;
+}
+.rojo6{
+    position: absolute;
+    top: 1000px;
+    left: 5%;
+    width: 90%;
+    height: 90px;
+    background: #AB2849;
+}
